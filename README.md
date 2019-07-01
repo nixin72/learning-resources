@@ -30,56 +30,56 @@ Learning a new language can be a difficult task, much more so than some people a
 - [Erlang](./E/Erlang.md)
 
 ### F
-- [F#]
-- [Forth]
-- [Fortran]
+- [F#](./F/F#.md)
+- [Forth](./F/Forth.md)
+- [Fortran](./F/Fortran.md)
 
 ### G
-- [Go]
-- [Groovy]
+- [Go](./G/Go.md)
+- [Groovy](./G/Groovy.md)
 
 ### H
-- [Hack]
-- [Haskell]
-- [HTML]
+- [Hack](./H/Hack.md)
+- [Haskell](./H/Haskell.md)
+- [HTML](./H/HTML.md)
 
 ### I
-- [Idris]
+- [Idris](./I/Idris.md)
 
 ### J
-- [Java]
-- [JavaScript]
-- [Julia]
+- [Java](./J/Java.md)
+- [JavaScript](./J/JavaScript.md)
+- [Julia](./J/Julia.md)
 
 ### K
-- [Kotlin]
+- [Kotlin](./K/Kotlin.md)
 
 ### L
-- [Lisp]
-- [Lua]
+- [Lisp](./L/Lisp.md)
+- [Lua](./L/Lua.md)
 
 ### M
-- [ML]
-- [MATLAB]
-- [Mathematica]
-- [Markdown]
+- [ML](./M/ML.md)
+- [MATLAB](./M/MATLAB.md)
+- [Mathematica](./M/Mathematica.md)
+- [Markdown](./M/Markdown.md)
 
 ### N
-- [Neko]
+- [Neko](./N/Neko.md)
 
 ### O
-- [OCaml]
-- [Objective-C]
+- [OCaml](./O/OCaml.md)
+- [Objective-C](./O/Objective-C.md)
 
 ### P
-- [Pascale]
-- [Perl]
-- [Perl6]
-- [PHP (PHP: Hypertext preprocessor)]
-- [Python]
-- [PL/SQL]
-- [Powershell]
-- [Prolog]
+- [Pascale](./P/Pascale.md)
+- [Perl](./P/Perl.md)
+- [Perl6](./P/Perl6.md)
+- [PHP (PHP: Hypertext preprocessor)](./P/PHP.md)
+- [Python](./P/Python.md)
+- [PL/SQL](./P/PL-SQL.md)
+- [Powershell](./P/Powershell.md)
+- [Prolog](./P/Prolog.md)
 
 ### R
 - [R](./R/R.md)
